@@ -1,0 +1,22 @@
+Calculus_2\Quizzes 20\Quiz_1 100
+Calculus_2\Quizzes 20\Quiz_2 100
+Calculus_2\Quizzes 20\Quiz_3 100
+Calculus_2\Quizzes 20\Quiz_3 100
+Calculus_2\Homework 15\Homework_1 100
+Calculus_2\Homework 15\Homework_2 100
+Calculus_2\Homework 15\Homework_3 100
+Calculus_2\Homework 15\Homework_4 100
+Calculus_2\Homework 15\Homework_5 100
+Calculus_2\Homework 15\Homework_6 100
+Calculus_2\Homework 15\Homework_7 100
+Calculus_2\Homework 15\Homework_8 100
+Calculus_2\Homework 15\Homework_9 100
+Calculus_2\Homework 15\Homework_10 100
+Calculus_2\Test 25\Test_1 100
+Calculus_2\Test 25\Test_2 100
+Calculus_2\Test 25\Test_3 100
+Calculus_2\Project 15\Peer_Review 50
+Calculus_2\Class_Project 15\Class_Project_G 50
+Calculus_2\Final_Exam 25
+
+

@@ -1,0 +1,9 @@
+Modernity\ESSAY 60\Essay_1 100
+Modernity\ESSAY 60\Essay_2 100
+Modernity\ESSAY 60\Essay_3 100
+Modernity\Quizzes 20\Quiz_1 100
+Modernity\Quizzes 20\Quiz_2 100
+Modernity\Quizzes 20\Quiz_3 100
+Modernity\Quizzes 20\Quiz_4 100
+Modernity\Final_Exam 10
+Modernity\Class_Participation 10

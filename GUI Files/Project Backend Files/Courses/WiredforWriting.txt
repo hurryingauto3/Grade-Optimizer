@@ -1,0 +1,10 @@
+WiredforWriting\ESSAY 75\ESSAY_1 5
+WiredforWriting\ESSAY 75\ESSAY_2 10
+WiredforWriting\ESSAY 75\ESSAY_3 10
+WiredforWriting\ESSAY 75\ESSAY_4 10
+WiredforWriting\ESSAY 75\ESSAY_5 15
+WiredforWriting\ESSAY 75\ESSAY_6 25
+WiredforWriting\Assignment 10
+WiredforWriting\Workshop 15\Peer_Review_1 5
+WiredforWriting\Workshop 15\Peer_Review_2 5
+WiredforWriting\Workshop 15\Peer_Review_3 5

@@ -1,0 +1,11 @@
+Discrete_Math\Homework 16\Homework_1 100
+Discrete_Math\Homework 16\Homework_2 100
+Discrete_Math\Homework 16\Homework_3 100
+Discrete_Math\Homework 16\Homework_4 100
+Discrete_Math\Quizzes 16\Quiz_1 100
+Discrete_Math\Quizzes 16\Quiz_2 100
+Discrete_Math\Quizzes 16\Quiz_3 100
+Discrete_Math\Quizzes 16\Quiz_4 100
+Discrete_Math\Midterm 25
+Discrete_Math\Class_Participation 8
+Discrete_Math\Final_Exam 35

@@ -1,0 +1,26 @@
+Variable Names:
+
+These are all for obtained marks. To make them maximum marks just ad '_b' to everything. Example obtained = ass1, then max = ass1_b
+
+DSA:
+assignments = ass1, ass2... assn
+project= proD, proT, proI, proC, proQ
+labs= lab1,lab2...labn
+quiz=quiz1, quiz2...quizn
+midterm= mid
+final= final
+participation = part
+
+DM:
+same variables with prefix 'DM' eg DMquiz1 DMass1
+
+CALC:
+prefix 'CALC' eg CALCass1 CALCquiz1
+project= CALpro
+peer review= CALpeer
+
+Modernity:
+Prefix 'MOD' eg MODquiz1 MODass1
+
+Sustanability:
+prefix 'S' eg Sass1 Spart

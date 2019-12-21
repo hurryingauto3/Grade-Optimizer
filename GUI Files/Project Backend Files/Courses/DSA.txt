@@ -1,0 +1,32 @@
+DSA\Class_Project 20\Interim_Demo 15
+DSA\Class_Project 20\Implementation_of_DSA_Techniques 20
+DSA\Class_Project 20\Interface_Output_Results 15
+DSA\Class_Project 20\Challenges_Addressed 10
+DSA\Class_Project 20\Completeness 25
+DSA\Class_Project 20\QnA 15
+DSA\Assignment 15\Assignment_1 100
+DSA\Assignment 15\Assignment_2 100
+DSA\Assignment 15\Assignment_3 100
+DSA\Class_Participation 5
+DSA\Lab 8\Lab_1 100
+DSA\Lab 8\Lab_2 100
+DSA\Lab 8\Lab_3 100
+DSA\Lab 8\Lab_4 100
+DSA\Lab 8\Lab_5 100
+DSA\Lab 8\Lab_6 100
+DSA\Lab 8\Lab_7 100
+DSA\Lab 8\Lab_8 100
+DSA\Lab 8\Lab_9 100
+DSA\Lab 8\Lab_10 100
+DSA\Lab 8\Lab_11 100
+DSA\Lab 8\Lab_12 100
+DSA\Lab 8\Lab_13 100
+DSA\Quizzes 7\Quiz_1 100
+DSA\Quizzes 7\Quiz_2 100
+DSA\Quizzes 7\Quiz_3 100
+DSA\Quizzes 7\Quiz_4 100
+DSA\Quizzes 7\Quiz_5 100
+DSA\Quizzes 7\Quiz_6 100
+DSA\Quizzes 7\Quiz_7 100
+DSA\Midterm_Exam 15
+DSA\Final_Exam 30
